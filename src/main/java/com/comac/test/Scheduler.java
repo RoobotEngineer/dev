@@ -32,10 +32,7 @@ public class Scheduler {
         });
 
     }
-//jj
-    if(float){
-        System.out.println("hhuj");
-    }
+//8899899999
     //34545354
     private  User findUser(Long userId){
         User user=userMapper.selectById(userId);
