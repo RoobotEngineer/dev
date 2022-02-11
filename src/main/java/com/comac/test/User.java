@@ -88,4 +88,6 @@ public class User {
     public void setAdminLevel(String adminLevel) {
         AdminLevel = adminLevel;
     }
+
+
 }
