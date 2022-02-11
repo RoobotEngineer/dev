@@ -32,7 +32,11 @@ public class Scheduler {
         });
 
     }
-//8899899999
+//8
+
+    if(true){
+        System.out.println(" jjk");
+    }
     //34545354
     private  User findUser(Long userId){
         User user=userMapper.selectById(userId);
